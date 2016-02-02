@@ -11,5 +11,6 @@
   Check to see if your program is correct by running this command:
 
   javascripting verify numbers.js
-*/
-
+/*
+ var example = 1234567890;
+console.log(example);
