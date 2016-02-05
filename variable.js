@@ -7,6 +7,6 @@
   Check to see if your program is correct by running this command:
   javascripting verify variables.js
 */
-var example = 'some string';
+var example = "123456789";
 console.log(example);
 
