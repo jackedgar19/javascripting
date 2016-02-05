@@ -12,5 +12,5 @@
 
   javascripting verify numbers.js
 */
- var example = 1234567890;
+ var example = "some string";
 console.log(example);
